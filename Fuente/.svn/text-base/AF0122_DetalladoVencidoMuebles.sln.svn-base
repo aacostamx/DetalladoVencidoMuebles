@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AF0122_DetalladoVencidoMuebles", "AF0122_DetalladoVencidoMuebles\AF0122_DetalladoVencidoMuebles.csproj", "{763D5662-117F-44DE-93C6-A814A00A35DE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{763D5662-117F-44DE-93C6-A814A00A35DE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{763D5662-117F-44DE-93C6-A814A00A35DE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{763D5662-117F-44DE-93C6-A814A00A35DE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{763D5662-117F-44DE-93C6-A814A00A35DE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
